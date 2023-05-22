@@ -37,17 +37,7 @@ app.use("/api-docs", swaggerUi.serve, swaggerUi.setup(swaggerSpec))
 
 
 // Routes
-/**
- * @swagger
- * /posts:
- * get:
- *    describe: Used to request all posts of a certain user
- *    responses:
- *      "200":
- *        description:  A successfull response
- *
- *
- * **/
+
 
 
 app.use("/post_smth", authRouter)
