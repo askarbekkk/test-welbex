@@ -12,7 +12,7 @@ const options = {
             version
         },
      servers: [{
-            api: "https://test-welbex.herokuapp.com"
+            url: "https://test-welbex.herokuapp.com"
      }]
     },
 
