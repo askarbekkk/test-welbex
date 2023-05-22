@@ -1,3 +1,6 @@
+
+api - https://test-welbex.herokuapp.com
+
 // GET - 
 "/users/:userId/posts" - used to get all posts of a certain user
 
